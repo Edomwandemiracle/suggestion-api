@@ -102,24 +102,34 @@ const suggestions: Array<Suggestion> = [
 type User = {
   id: string;
   name: string;
+  email: string;
+  avatar: string;
 }
 
 const users: Array<User> = [
   {
     id: "miracle",
-    name: "Miracle E."
+    name: "Miracle E.",
+    email: 'Miracle@gmail.com',
+    avatar: 'https://avatars.githubusercontent.com/u/1064036?v=4'
   },
   {
     id: "john",
-    name: "John D."
+    name: "John D.",
+    email: 'John@gmail.com',
+    avatar: 'https://avatars.githubusercontent.com/u/1064036?v=4'
   },
   {
     id: "josh",
-    name: "Josh S."
+    name: "Josh S.",
+    email: 'Josh@gmail.com',
+    avatar: 'https://avatars.githubusercontent.com/u/1064036?v=4'
   },
   {
     id: "jane",
-    name: "Jane F."
+    name: "Jane F.", 
+    email: 'Jane@gmail.com',
+    avatar: 'https://avatars.githubusercontent.com/u/1064036?v=4'
   }
 ]
 
