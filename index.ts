@@ -111,25 +111,25 @@ const users: Array<User> = [
     id: "miracle",
     name: "Miracle E.",
     email: 'Miracle@gmail.com',
-    avatar: 'https://avatars.githubusercontent.com/u/1064036?v=4'
+    avatar: 'https://xsgames.co/randomusers/avatar.php?g=male '
   },
   {
     id: "john",
     name: "John D.",
     email: 'John@gmail.com',
-    avatar: 'https://avatars.githubusercontent.com/u/1064036?v=4'
+    avatar: 'https://xsgames.co/randomusers/avatar.php?g=male '
   },
   {
     id: "josh",
     name: "Josh S.",
     email: 'Josh@gmail.com',
-    avatar: 'https://avatars.githubusercontent.com/u/1064036?v=4'
+    avatar: 'https://xsgames.co/randomusers/avatar.php?g=male '
   },
   {
     id: "jane",
     name: "Jane F.", 
     email: 'Jane@gmail.com',
-    avatar: 'https://avatars.githubusercontent.com/u/1064036?v=4'
+    avatar: 'https://xsgames.co/randomusers/avatar.php?g=female '
   }
 ]
 
