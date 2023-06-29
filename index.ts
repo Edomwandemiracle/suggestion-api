@@ -42,8 +42,8 @@ const suggestions: Array<Suggestion> = [
     parentId: "premier-league"
   },
   {
-    id: 'serie-a',
-    title: "Serie A",
+    id: 'seria-a',
+    title: "Seria A",
     parentId: "football"
   },
   {
